@@ -1,0 +1,145 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+}
+.half-width{
+    width:50%;
+}
+.top{
+    display: flex;
+    background-image: url(images/shapes/top-banner.png);
+    background-repeat: no-repeat;
+}
+img{
+    width: 80%;
+}
+.writing{
+    margin-left: 70px;
+    margin-top: 120px;
+}
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 14px;
+}
+a{
+    text-decoration: none;
+    padding: 15px 30px;
+    background-image: linear-gradient(tomato, orangered);
+    border-radius: 30px;
+    color: white;
+    font-weight: bold
+}
+.bg{
+    width: 100%;
+    height: auto;
+    position: absolute;
+}
+.female{
+    width: 250px;
+    height: 400px;
+    background-position: left;
+    position: relative;
+    left: 200px;
+    top: 110px;
+}
+.mid{
+    display: flex;
+    padding-top: 100px;
+}
+#mid-writing{
+    text-align: center;
+    width: 30%;
+    line-height: 25px;
+    position: relative;
+    top: 100px;
+}
+.cont{
+    text-decoration: none;
+    padding: 15px 30px;
+    background-image: linear-gradient(tomato, orangered);
+    border-radius: 30px;
+    color: white;
+    font-weight: bold
+}
+.mr{
+    text-align: center;
+}
+.lorem20{
+    width: 600px;
+    margin: auto;
+}
+.one-third{
+    width: 100%;
+    margin: auto;
+    display: flex;
+}
+.st-item{
+    width: 25%;
+    align-content: center;
+    padding-left: 2.5%;
+    padding-right: 3%;
+    text-align: justify;
+    background-color: white;
+    box-shadow: 20px 20px 40px gray;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-right: 0px;
+}
+.nd-item{
+    width: 25%;
+    text-align: center;
+    padding-left: 2.5%;
+    padding-right: 3%;
+    text-align: justify;
+    margin-left: 50px;
+    background-color: white;
+    box-shadow: 20px 20px 40px gray;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-right: 0px;
+}
+.rd-item{
+    width: 25%;
+    text-align: center;
+    padding-left: 2.5%;
+    padding-right: 3%;
+    text-align: justify;
+    margin-left: 50px;
+    background-color: white;
+    box-shadow: 20px 20px 40px gray;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-right: 0px;
+}
+.st-item p{
+    width: 280px;
+}
+.nd-item p{
+    width: 280px;
+}
+.rd-item p{
+    width: 280px;
+}
+.last{
+    margin: auto;
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+.st-item img{
+    width: 280px;
+}
+.nd-item img{
+    width: 280px;
+}
+.rd-item img{
+    width: 280px;
+}
+.foot{
+    padding-top: 10px;
+    padding-right: 400px;
+    padding-left: 400px;
+    padding-bottom: 70px;
+}
